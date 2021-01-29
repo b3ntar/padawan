@@ -7,6 +7,6 @@ const result = add(100.4)
 console.log(result)
 
 
-test('test namirane na celsii ', () => {
+test('test checking to celsius ', () => {
     expect(console.log).toBe(38);
   });
