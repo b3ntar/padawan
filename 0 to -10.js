@@ -1,5 +1,5 @@
 const reverseCount = () => {
-    for (i = 10; i > -1; i--) // Ot 0 do -10
+    for (i = 10; i > -1; i--) // Ot 0 to -10
       console.log(i - 10)
   }
   
